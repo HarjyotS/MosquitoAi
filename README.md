@@ -5,9 +5,10 @@ colorFrom: blue
 colorTo: pink
 sdk: streamlit
 sdk_version: 1.15.2
-app_file: app.py
+app_file: info.py
 pinned: false
-license: gpl-3.0
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# How to run
+`pip install -r requirements.txt`
+`streamlit run info.py`
