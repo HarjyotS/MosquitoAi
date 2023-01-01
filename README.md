@@ -11,5 +11,5 @@ pinned: false
 
 # How to run
 ```pip install -r requirements.txt```
-then
+<br/>
 ```streamlit run info.py```
